@@ -5,7 +5,7 @@
 }
 
 .container {
-  padding: 1px;
+  padding: 20px;
 }
 
 .App-logo {
@@ -107,7 +107,6 @@
 }
 
 .education-info p {
-  padding-left: 2.5rem;
   padding-bottom: 5px;
   font-family: "Lato", sans-serif;
   font-size: 1.5rem;
@@ -116,15 +115,16 @@
 }
 
 .skills {
-  padding-left: 2.5rem;
   font-size: 1.5rem;
   font-family: "Lato", sans-serif;
   text-align: left;
+  list-style: none;
 }
 
 .tech-projects {
+  list-style: none;
   padding-top: 15px;
-  padding-left: 2.5rem;
+
   font-size: 1.5rem;
   font-family: "Lato", sans-serif;
   text-align: left;
@@ -152,3 +152,4 @@
   height: 30px;
   display: inline-block;
 }
+

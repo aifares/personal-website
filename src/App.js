@@ -39,8 +39,9 @@ function App() {
         <FadeIn>
           <div className="about-me-info2">
             <p>I am currently a junior at the Univeristy at Buffalo</p>
-            <p>I am a aspring Software enginnerng</p>
-            <p>with a natural affinty for building products!</p>
+            <p>I love sports,sneakers and coding</p>
+            <p>I currently have a Software Engineering Internship</p>
+            <p>with American Express for Summer 2021.</p>
           </div>
         </FadeIn>
         <a name="resume"></a>
@@ -53,30 +54,32 @@ function App() {
           {" "}
           <u>Education</u>{" "}
         </div>
-        <div className="education-info">
-          <p>
-            University at Buffalo, State University of New York | Buffalo, NY
-          </p>
-          <p>
-            {" "}
-            <b>Graduation Date:</b> May 2022
-          </p>
-          <p>Bachelor of Science in Computer Science</p>
+        <FadeIn>
+          <div className="education-info">
+            <p>
+              University at Buffalo, State University of New York | Buffalo, NY
+            </p>
+            <p>
+              {" "}
+              <b>Graduation Date:</b> May 2022
+            </p>
+            <p>Bachelor of Science in Computer Science</p>
 
-          <p>
-            <b>Relevant Coursework:</b> Introduction to Computer Science 1,
-            Introduction to Computer Science 2, Systems Programming, Computer
-            Organization, Introduction to Artificial Intelligence, Discrete
-            Structures, Data Structures, Algorithms and Complexity, Introduction
-            to Software Practice, Software Engineering
-          </p>
-        </div>
+            <p>
+              <b>Relevant Coursework:</b> Introduction to Computer Science 1,
+              Introduction to Computer Science 2, Systems Programming, Computer
+              Organization, Introduction to Artificial Intelligence, Discrete
+              Structures, Data Structures, Algorithms and Complexity,
+              Introduction to Software Practice, Software Engineering
+            </p>
+          </div>
+        </FadeIn>
         <div className="section-header">
           {" "}
           <u>Skills</u>{" "}
         </div>
         <div className="skills">
-          <ul>
+          <ul className="bullet">
             <li>
               Experienced in Python, Javascript, Scala, MySQL, C, Django, React,
               Node.js, CSS, Web Sockets, and  HTML, Pandas, NumPy, MongoDB,
