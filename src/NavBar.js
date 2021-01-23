@@ -26,7 +26,7 @@ export default function NavBar() {
             </a>
           </li>
           <li class="nav__item">
-            <a href="#aboutme" class="nav__link">
+            <a href="http://www.alifares.com/#aboutme" class="nav__link">
               About me
             </a>
           </li>

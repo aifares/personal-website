@@ -32,7 +32,7 @@ function App() {
         <div className="about-me-info">
           <FadeIn>
             <p>Hi! My name is Ali Fares</p>
-            <p>I am a aspring Software Engineer</p>
+            <p>I am a aspiring Software Engineer</p>
             <p>with a natural affinty for building products!</p>
           </FadeIn>
         </div>
