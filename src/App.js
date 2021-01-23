@@ -57,7 +57,10 @@ function App() {
         <FadeIn>
           <div className="education-info">
             <p>
-              University at Buffalo, State University of New York | Buffalo, NY
+              <b>
+                University at Buffalo, State University of New York | Buffalo,
+                NY
+              </b>
             </p>
             <p>
               {" "}
