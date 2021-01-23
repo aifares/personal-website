@@ -48,6 +48,7 @@
 }
 
 .divder h2 {
+  color: #3c3744;
   font-size: 3.5rem;
   font-family: "Lato", sans-serif;
   padding-top: 5rem;
@@ -60,18 +61,21 @@
 }
 
 .divder h2 span {
+  color: #3c3744;
   font-size: 3.5rem;
   background: #fff;
   padding: 0 10px;
 }
 
 .about-me {
+  color: #3c3744;
   font-size: 2.5rem;
   font-weight: 50;
   text-align: center;
 }
 
 .about-me-info {
+  color: #3c3744;
   font-family: "Lato", sans-serif;
   font-size: 3rem;
   font-weight: 500;
@@ -80,18 +84,21 @@
 }
 
 .about-me-info p {
+  color: #3c3744;
   font-family: "Lato", sans-serif;
   font-size: 1.5rem;
   margin: 0;
 }
 
 .about-me-info2 p {
+  color: #3c3744;
   font-family: "Lato", sans-serif;
   font-size: 1.5rem;
   margin: 0;
 }
 
 .section-header {
+  color: #3c3744;
   padding-top: 30px;
   font-family: "Lato", sans-serif;
   font-size: 2.5rem;
@@ -99,7 +106,7 @@
 }
 
 .education-info {
-  
+  color: #3c3744;
   padding-top: 30px;
   font-family: "Lato", sans-serif;
   font-size: 1.5rem;
@@ -107,6 +114,7 @@
 }
 
 .education-info p {
+  color: #3c3744;
   padding-bottom: 5px;
   font-family: "Lato", sans-serif;
   font-size: 1.5rem;
@@ -115,6 +123,7 @@
 }
 
 .skills {
+  color: #3c3744;
   font-size: 1.5rem;
   font-family: "Lato", sans-serif;
   text-align: left;
@@ -122,6 +131,7 @@
 }
 
 .tech-projects {
+  color: #3c3744;
   list-style: none;
   padding-top: 15px;
 
@@ -141,6 +151,7 @@
 }
 
 .section-header-contact {
+  color: #3c3744;
   padding-top: 30px;
   padding-bottom: 30px;
   font-family: "Lato", sans-serif;
@@ -149,7 +160,7 @@
 }
 
 .spacer {
+  color: #3c3744;
   height: 30px;
   display: inline-block;
 }
-

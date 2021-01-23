@@ -111,7 +111,7 @@ function App() {
         </div>
         <div className="tech-projects">
           <div className="tech-projects">
-            <b>Raul Avila Inc. E-Commerce Website</b>
+            <b>Raul Avila Inc. E-Commerce Website</b>{" "}
             <ul>
               <li>
                 Using Python’s Django framework created a backend which included
@@ -123,8 +123,8 @@ function App() {
                 deliver the product and meet deadlines.
               </li>
               <li>
-                Using HTML and CSS created a dynamic fronted to allow employees
-                to make changes to website.
+                Using HTML and CSS created a user fronted and employee dashboard to allow employees
+                to update products.
               </li>
             </ul>
           </div>
