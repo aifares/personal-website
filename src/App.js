@@ -175,8 +175,8 @@ function App() {
               Google's Firebase and Node.js.
             </li>
             <li>
-              Created a fully functional authentication system that used
-              Google's Firebase and Node.js.
+              Using React.js created a dynamic frontend to visualize data in
+              several ways.
             </li>
           </ul>
         </div>
